@@ -80,19 +80,12 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 
 ---
 
-## 🛠️ Tech I'm Exploring
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode&theme=dark" />
+🛠️ Tech I'm Exploring
+<div align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,sklearn,tensorflow,anaconda,opencv,mysql,blender,git,github,arduino,vscode&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Data%20Science-111827?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</div>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white"/> </div>
 
 ---
 
@@ -118,22 +111,34 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 | 🤖 **AI Projects**  | Machine Learning & Intelligent Systems      | 🔄 Exploring |
 
 ---
-
 ## 📈 My Learning Direction
-
-<div align="center">
-
-**Python**
-↓
-**Data Analysis**
-↓
-**Machine Learning**
-↓
-**Artificial Intelligence**
-↓
-**Real-World AI Projects**
-
-</div>
+ 
+```mermaid
+flowchart TD
+    classDef foundation fill:#1a1b27,stroke:#7aa2f7,stroke-width:2px,color:#a9b1d6,font-weight:bold
+    classDef applied fill:#24283b,stroke:#bb9af7,stroke-width:2px,color:#c0caf5,font-weight:bold
+    classDef goal fill:#0d1117,stroke:#9ece6a,stroke-width:3px,color:#9ece6a,font-weight:bold
+ 
+    subgraph Foundations["🧱 Foundations"]
+        direction TB
+        A(["🐍 Python"]) --> B(["📊 Data Analysis"])
+    end
+ 
+    subgraph Applied["🤖 Applied AI"]
+        direction TB
+        C(["🧠 Machine Learning"]) --> D(["✨ Artificial Intelligence"])
+    end
+ 
+    E(["🚀 Real-World AI Projects"])
+ 
+    Foundations --> Applied
+    Applied --> E
+ 
+    class A,B foundation
+    class C,D applied
+    class E goal
+```
+ 
 
 ---
 
