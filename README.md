@@ -8,7 +8,7 @@
 
 <div align="center">
 
-`Data` · `Python` · `Machine Learning` · `DSA`
+`Data` · `Python` · `Machine Learning` · `Data Structure and Algorithm`
 
 <br/>
 
@@ -137,6 +137,8 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 
 ---
 
+### `BUILD → LEARN → SOLVE → REPEAT`
+
 ## 🎯 2026 Goals
 
 - Build stronger foundations in Data Science and Machine Learning.
@@ -149,10 +151,4 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 
 <div align="center">
 
-### `BUILD → LEARN → SOLVE → REPEAT`
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=vaibhcodes&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
