@@ -129,8 +129,16 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhcodes&theme=dracula&area=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhcodes&theme=github-compact&area=true&hide_border=true"
+    alt="Vaibhav's GitHub Activity Graph"
+    width="100%"
+  />
 </p>
+
+</div>
+
+---
 
 ---
 
