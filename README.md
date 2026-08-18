@@ -133,13 +133,12 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 
 ---
 
-<h2 align="center">🐱 Commit Activity</h2>
+<h2 align="center">⌁ Commit Activity</h2>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/vaibhcodes/vaibhcodes/main/output/pacman-contribution-graph-dark.svg"
+    src="https://raw.githubusercontent.com/vaibhcodes/vaibhcodes/output/contribution-animation-dark.svg"
     alt="Vaibhav's GitHub Contribution Activity"
+    width="100%"
   />
 </p>
-
----
