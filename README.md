@@ -110,7 +110,7 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 
 </div>
 
----
+
 
 # 🎯 Current Goals
 
