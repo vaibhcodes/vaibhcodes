@@ -7,24 +7,26 @@ on:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
 
-    runs-on: ubuntu-latest
-
     steps:
-      - name: Generate contribution animation
-        uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: vaibhcodes
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=%237c3aed
+            dist/github-snake.svg?color_snake=%237c3aed
             dist/github-snake-dark.svg?palette=github-dark&color_snake=%23a78bfa
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish animation
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           build_dir: dist
           target_branch: output
+          commit_message: Update contribution animation
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
