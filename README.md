@@ -13,6 +13,7 @@
 </div>
 
 ---
+</div>
 
 ## 🧑‍💻 About Me
 
@@ -40,6 +41,7 @@ class Vaibhav:
 ```
 
 ---
+</div>
 
 ## ⚡ What I'm Up To
 
@@ -106,6 +108,10 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 ---
 
 
+</div>
+
+---
+
 # 🎯 Current Goals
 
 * 📚 Master Data Science, Machine Learning & Statistics
@@ -115,7 +121,6 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 * 💼 Secure a Data Science / Machine Learning Internship
 * 🌍 Contribute to Open Source & Hackathons
 * ⭐ Maintain Consistent GitHub Contributions
-
 
 ---
 
