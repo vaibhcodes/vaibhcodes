@@ -124,7 +124,7 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 
 ---
 
-<div align="center">
+
 
 ## 📈 Contribution Activity
 
@@ -136,11 +136,8 @@ Working with **data analysis, visualization, preprocessing and predictive modell
   />
 </p>
 
-</div>
-
 ---
 
----
 
 <h2 align="center">⌘ Commit Activity</h2>
 
