@@ -1,16 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi%20👋,%20I'm%20Vaibhav%20Mishra&fontSize=48&fontColor=a9b1d6&fontAlignY=55&height=140&desc=Data%20Science%20Student%20%7C%20Python%20Developer%20%7C%20AI%2FML%20Explorer&descSize=18&descColor=7aa2f7&descAlignY=80" width="100%"/>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi%20👋,%20I'm%20Vaibhav%20Mishra&fontSize=48&fontColor=a9b1d6&fontAlignY=55&height=95" width="100%"/><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=18&duration=3500&pause=1000&color=A9B1D6&center=true&vCenter=true&width=850&height=28&lines=Transforming+Data+Into+Insights;Diving+Deep+Into+Machine+Learning;Strengthening+DSA;Mastering+The+Person+In+The+Mirror"/>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhcodes.vaibhcodes" />
 </p>
 
-<div align="center">
-
-`Data` · `Python` · `Machine Learning` · `Data Structure and Algorithm`
-
-<br/>
+</div>
 
 > *Turning curiosity into code, and data into solutions.*
 
