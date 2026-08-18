@@ -132,5 +132,22 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 </p>
 
 ---
+<h2 align="center">🐍 Contribution Journey</h2>
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/vaibhcodes/vaibhcodes/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/vaibhcodes/vaibhcodes/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/vaibhcodes/vaibhcodes/output/github-snake.svg"
+      alt="Vaibhav's contribution journey"
+    />
+  </picture>
+</p>
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
