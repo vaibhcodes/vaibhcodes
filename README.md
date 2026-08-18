@@ -6,9 +6,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhcodes.vaibhcodes" />
 </p>
 
-</div>
+<div align="center">
 
-> *Turning curiosity into code, and data into solutions.*
+<p><i>Turning curiosity into code, and data into solutions.</i></p>
 
 </div>
 
