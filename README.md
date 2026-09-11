@@ -133,8 +133,8 @@ Working with **data analysis, visualization, preprocessing and predictive modell
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhcodes&theme=dracula&area=true"/>
 </p>
 
----
 
+---
 
 <h2 align="center">⌘ Commit Activity</h2>
 
