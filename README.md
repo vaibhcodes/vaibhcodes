@@ -92,18 +92,20 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhcodes &theme=tokyonight" height="180"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhcodes&theme=tokyonight" height="180" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=vaibhcodes &theme=highcontrast&hide_border=false" height="180"/>
+      <img src="https://streak-stats.demolab.com/?user=vaibhcodes&theme=highcontrast&hide_border=false" height="180" />
     </td>
   </tr>
 </table>
+
 
 ---
 
