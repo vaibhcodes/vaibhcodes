@@ -97,10 +97,10 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhcodes&theme=tokyonight" height="180"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhcodes &theme=tokyonight" height="180"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=vaibhcodes&theme=highcontrast&hide_border=false" height="180"/>
+      <img src="https://streak-stats.demolab.com/?user=vaibhcodes &theme=highcontrast&hide_border=false" height="180"/>
     </td>
   </tr>
 </table>
@@ -110,6 +110,15 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 
 </div>
 
+## 📊 LeetCode Statistics
+
+<p align="center">
+  <a href="https://leetcode.com/u/VMC0des/">
+    <img src="https://leetcard.jacoblin.cool/ansh_5379?theme=dark" />
+  </a>
+</p>
+
+---
 
 
 # 🎯 Current Goals
