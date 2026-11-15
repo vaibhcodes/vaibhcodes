@@ -116,7 +116,7 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 
 <p align="center">
   <a href="https://leetcode.com/u/VMC0des/">
-    <img src="https://leetcard.jacoblin.cool/ansh_5379?theme=dark" />
+    <img src="https://leetcard.jacoblin.cool/VMC0des?theme=dark" />
   </a>
 </p>
 
