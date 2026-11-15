@@ -149,6 +149,7 @@ Working with **data analysis, visualization, preprocessing and predictive modell
 </p>
 
 
+
 ---
 
 <h2 align="center">⌘ Commit Activity</h2>
@@ -157,16 +158,17 @@ Working with **data analysis, visualization, preprocessing and predictive modell
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/vaibhcodes/vaibhcodes/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/vaibhcodes/vaibhcodes/output/github-snake-dark.gif"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/vaibhcodes/vaibhcodes/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/vaibhcodes/vaibhcodes/output/github-snake-light.gif"
     />
     <img
-      src="https://raw.githubusercontent.com/vaibhcodes/vaibhcodes/output/github-snake.svg"
-      alt="GitHub Contribution Activity"
+      src="https://raw.githubusercontent.com/vaibhcodes/vaibhcodes/output/github-snake-light.gif"
+      alt="Vaibhav's GitHub Contribution Snake Animation"
       width="100%"
     />
   </picture>
 </p>
+
